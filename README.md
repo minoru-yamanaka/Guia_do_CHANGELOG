@@ -72,4 +72,4 @@ Com um CHANGELOG claro e bem organizado, você pode manter todos os membros da e
 
 ## Créditos
   👏[Josué Lobo](https://www.linkedin.com/in/jojosuelobo) e seu [canal](https://www.youtube.com/@jojosueloboYT) por compartilhar [conhecimentos](https://github.com/jojosuelobo) de forma simples e divertida🙏✨ e ao [Hugo](https://www.linkedin.com/in/thishugo/) por seus insights💡 em meu caminho de aprendizado
-🌟📚🚀.# Guia_do_CHANGELOG
+🌟📚🚀.
