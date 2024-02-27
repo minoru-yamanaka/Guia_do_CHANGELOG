@@ -4,7 +4,7 @@ Quando se trata de desenvolver software, manter um registro claro das mudanças 
 
 ![icon](icon.svg)
 
-## O que é um CHANGELOG?
+## [O que é um CHANGELOG?](https://www.youtube.com/watch?v=c-yIBfyED34)
 
 Um CHANGELOG é um documento que registra todas as alterações notáveis feitas em um projeto de software desde o seu início. Ele fornece uma visão geral das versões lançadas, juntamente com uma descrição das mudanças introduzidas em cada versão. Isso inclui novas funcionalidades, correções de bugs, melhorias de desempenho e outras alterações relevantes.
 
